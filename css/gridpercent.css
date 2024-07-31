@@ -1,0 +1,29 @@
+/* gridpercent css */
+
+
+@media screen and (min-width: 768px) {
+
+	main .mainsub {
+		margin-left:1,041666667%;
+		margin-right:1,041666667%;
+	}
+	
+	.grid1, .grid2, .grid3, .grid4, .grid5, .grid6, .grid7, .grid8, .grid9, .grid10, .grid11, .grid12 {
+		float:left;
+		margin-left:1,041666667%;
+		margin-right:1,041666667%;
+	}
+	.grid1 {	width:6,25%;}
+	.grid2 {	width:14,58333333%;}
+	.grid3 {	width:22,91666667%;}
+	.grid4 {	width:31,25%;}
+	.grid5 {	width:39,58333333%;}
+	.grid6 {	width:47,91666667%;}
+	.grid7 {	width:56,25%;}
+	.grid8 {	width:64,58333333%;}
+	.grid9 {	width:72,91666667%;}
+	.grid10 {	width:81,25%;}
+	.grid11 {	width:89,58333333%;}
+	.grid12 {	width:97,91666667%;}
+
+}
